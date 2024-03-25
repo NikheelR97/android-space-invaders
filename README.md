@@ -4,7 +4,7 @@ _Simple retro game [space-invaders](https://en.wikipedia.org/wiki/Space_Invaders
 
 ## Motivation
 <p align="justify">
-I built this video game in 2014 as part of a mobile devices programming course I took. It was developed using just native Android, no frameworks were used. I decided to upload it for two reasons. On the one hand, because it may be useful to people who are getting started on android game programming. On the other hand, because when I re-discover it after a couple of years, I found it nice in some way, so I wanted to preserve it.
+I built this video game in 2017 as part of my University application for mobile development. It was developed using just native Android, no frameworks were used. I decided to upload it for two reasons. On the one hand, because it may be useful to people who are getting started on android game programming. On the other hand, because when I re-discover it after a couple of years, I found it nice in some way, so I wanted to preserve it.
 </p>
 
 <p align="center">
